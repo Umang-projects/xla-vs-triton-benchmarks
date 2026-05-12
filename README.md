@@ -25,7 +25,7 @@ See [HLO Analysis](analysis/xla_hlo_dump.md)
 
 ## JAX Issue
 
-Reported to Google JAX team: [Issue #XXXX](https://github.com/google/jax/issues/XXXX)
+Reported to Google JAX team: [Issue #37511](https://github.com/google/jax/issues/37511)
 
 ## Triton Kernel
 
